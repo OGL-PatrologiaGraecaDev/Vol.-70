@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/70/hvd.32044019207901/750.png"; bbox 0 0 4096 6414; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 625 3112 1894 3150">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 625 3112 1894 3150">
+     <span class='ocr_line' id='line_1_1' title="bbox 625 3112 1894 3150; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 625 3112 703 3150; x_wconf 53' lang='grc' dir='ltr'><em>ἐκ(</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 874 3127 899 3150; x_wconf 74' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1002 3112 1037 3148; x_wconf 93' lang='lat'><strong>/</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1233 3112 1272 3150; x_wconf 88' lang='lat'><strong>/</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1477 3112 1560 3150; x_wconf 52' lang='grc' dir='ltr'><em>[β</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1673 3128 1737 3150; x_wconf 76' lang='grc' dir='ltr'><em>ΙΙ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1787 3112 1894 3150; x_wconf 56' lang='grc' dir='ltr'><em>ωε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 3078 1846 3202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 3078 1846 3202">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 3078 1846 3202; baseline -0.011 -8"><span class='ocrx_word' id='word_1_8' title='bbox 629 3095 899 3196; x_wconf 49' lang='grc' dir='ltr'><em>ἀλαί</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 967 3078 1560 3202; x_wconf 34' lang='grc' dir='ltr'><em>ιγῄο-νιλκυιηβ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1656 3128 1737 3200; x_wconf 87' lang='lat'><strong><em>/</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1766 3131 1846 3202; x_wconf 57' lang='grc' dir='ltr'><em>[ᾇ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
